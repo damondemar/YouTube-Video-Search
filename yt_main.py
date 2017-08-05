@@ -1,5 +1,5 @@
 import json
-import yt_search_lib as yt
+import yt_search as yt
 
 # Main Program
 
